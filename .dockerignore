@@ -1,0 +1,11 @@
+.git
+.gitignore
+.dockerignore
+test
+CloudronManifest.json
+README.md
+DESCRIPTION.md
+CHANGELOG.md
+medialinks/
+logo.png
+POSTINSTALL.md

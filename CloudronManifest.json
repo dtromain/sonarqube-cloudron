@@ -1,0 +1,27 @@
+{
+    "id": "fr.romaindouteau.sonarqube-cloudron",
+    "title": "Sonarqube",
+    "author": "Romain Douteau",
+    "description": "file://DESCRIPTION.md",
+    "tagline": "SonarQube is a self-managed, automatic code review tool that systematically helps you deliver Clean Code",
+    "version": "0.1.0",
+    "upstreamVersion": "10.4.0.87286",
+    "healthCheckPath": "/",
+    "httpPort": 9000,
+    "manifestVersion": 2,
+    "website": "https://www.sonarsource.com/products/sonarqube/",
+    "contactEmail": "contact@romaindouteau.fr",
+    "icon": "file://logo.png",
+    "multiDomain": true,
+    "addons": {
+      "localstorage": {},
+      "tls": {},
+      "postgresql": {},
+      "sendmail": {}
+    },
+    "tags": [ "Sonarqube", "Continuous Integration", "Developper Tools" ],
+    "changelog": "file://CHANGELOG.md",
+    "postInstallMessage": "file://POSTINSTALL.md"
+  }
+  
+  
